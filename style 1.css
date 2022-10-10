@@ -1,0 +1,60 @@
+.container-fluid {
+  background-image: url("images/header_bg.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px; }
+
+.container {
+  margin-top: -440px !important; }
+  .container .row .nav .nav-link {
+    color: white; }
+  .container .row .dropdown .btn {
+    color: white; }
+  .container .row .dropdown .dropdown-menu a {
+    text-decoration: none; }
+  .container .row-a {
+    margin-top: 80px !important; }
+    .container .row-a .col-5 {
+      margin-top: -50px !important; }
+
+.container-a {
+  margin-top: 140px !important;
+  background-color: white; }
+  .container-a .row .h5-a {
+    border-bottom: 2px solid black; }
+  .container-a .h5 {
+    margin-left: 25px !important; }
+  .container-a .a1 {
+    text-decoration: none; }
+  .container-a .row .h6 {
+    color: #9d9d9d; }
+  .container-a .row .p1 {
+    color: #514f4f; }
+  .container-a .row-b .col-a {
+    background: linear-gradient(0, #00FDEB 5%, transparent); }
+  .container-a .row .inputs {
+    width: 400px !important; }
+  .container-a .row .carousel-indicators > li {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #071e80 !important; }
+  .container-a .row .carousel-inner {
+    box-shadow: 0 5px 10px 2px rgba(34, 60, 80, 0.2); }
+  .container-a .row .btn {
+    margin-top: -35px !important; }
+  .container-a .row .font-1 {
+    border-bottom: 2px solid #676767; }
+  .container-a .row .a2 {
+    text-decoration: none !important;
+    font-size: 20px !important; }
+
+.v1 {
+  background-image: url("images/footer_bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: 440px !important; }
+
+/*# sourceMappingURL=style%201.css.map */
